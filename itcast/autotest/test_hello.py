@@ -5,4 +5,3 @@ def test_a():
 def test_b():
     print("test_b")
 
-
